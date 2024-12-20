@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bababum95/mesto.git"
+    "url": "git+https://github.com/Sorenty/yandex6.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bababum95/mesto/issues"
+    "url": "https://github.com/Sorenty/yandex6/issues"
   },
-  "homepage": "https://github.com/Bababum95/mesto#readme",
+  "homepage": "https://github.com/Sorenty/yandex6#readme",
   "devDependencies": {
     "@babel/core": "^7.21.3",
     "@babel/preset-env": "^7.20.2",
